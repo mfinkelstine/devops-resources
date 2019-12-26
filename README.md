@@ -19,13 +19,21 @@
   </tr>
   <tr>
     <td align="center"><a href="resources/jenkins/README.md"><img src="images/jenkins.png" width="80px;" height="85px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
-    <td align="center"><a href="resources/jenkins/README.md"><img src="images/jenkins.png" width="80px;" height="85px;" alt="Jenkins"/><br /><b>gitlab</b></a></td>
-    <td align="center"><a href="resources/jenkins/README.md"><img src="images/jenkins.png" width="80px;" height="85px;" alt="Jenkins"/><br /><b>circleci</b></a></td>
+    <td align="center"><a href="resources/jenkins/README.md"><img src="images/gitlab.jpg" width="80px;" height="85px;" alt="gitlab"/><br /><b>gitlab</b></a></td>
+    <td align="center"><a href="resources/jenkins/README.md"><img src="images/jenkins.png" width="80px;" height="85px;" alt=""/><br /><b>circleci</b></a></td>
   </tr>
 </table>
 </center>
 <center>
 <table>
+  <tr>
+    <td align="center"><a href="resources/coding.md"><img src="images/coding.png" width="75px;" height="75px;" alt="coding"/><br /><b>Coding</b></a></td>
+    <td align="center"><a href="resources/python.md"><img src="images/coding/python.png" width="80px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+    <td align="center"><a href="resources/bash.md"><img src="images/coding/bash.png" width="70px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
+    <td align="center"><a href="resources/go"><img src="images/coding/go.png" width="80px;" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
+    <td align="center"><a href="resources/go"><img src="images/coding/ruby.png" width="80px;" height="75px;" alt="Go"/><br /><b>Ruby</b></a></td>
+    <td align="center"><a href="resources/go"><img src="images/coding/c.png" width="80px;" height="75px;" alt="Go"/><br /><b>C/C++</b></a></td> 
+  </tr>
   <tr>
     <td align="center"><a href="#devops"><img src="images/devops.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
     <td align="center"><a href="resources/jenkins/README.md"><img src="images/jenkins.png" width="80px;" height="85px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
@@ -38,9 +46,6 @@
   </tr>
   <tr>
     <td align="center"><a href="resources/coding.md"><img src="images/coding.png" width="75px;" height="75px;" alt="coding"/><br /><b>Coding</b></a></td>
-    <td align="center"><a href="resources/python.md"><img src="images/python.png" width="80px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
-    <td align="center"><a href="resources/go"><img src="images/go.png" width="80px;" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
-    <td align="center"><a href="resources/bash.md"><img src="images/bash.png" width="70px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
     <td align="center"><a href="resources/kubernetes.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
     <td align="center"><a href="resources/prometheus.md"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
     <td align="center"><a href="resources/mongo.md"><img src="images/mongo.png" width="75px;" height="75px;" alt="Mongo"/><br /><b>Mongo</b></a></td>

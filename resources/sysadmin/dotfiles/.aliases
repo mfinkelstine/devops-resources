@@ -4,6 +4,19 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias ~="cd ~"
 
+# User specific aliases and functions
+alias sl='ls'
+alias ls='ls --color=auto'
+alias lsp='readlink -f' # print the full path of a file
+alias lsd='ls -d */'	# only list directories
+alias ll='ls -lh'
+alias la='ls -d .??*'
+alias lla='ls -lhA'
+alias l.='ls -A'
+alias lst='clear; ls --sort=time | less'
+alias llt='ll --sort=time | less'
+alias lat='la --sort=time | less'
+
 # Logs
 alias tf="tail -f"
 
@@ -32,9 +45,36 @@ alias dcs="docker-compose stop"
 alias vim="nvim"
 alias vi="nvim"
 
+# Vagrant
+alias vu="vagrant up"
+alias vp="vagrant provision"
+alias vr="vagrant reload"
+alias vh="vagrant halt"
+alias vd="vagrant destroy"
+alias vs="vagrant ssh"
+
+# Docker
+alias dc="docker-compose"
+alias dcb="docker-compose build"
+alias dcu="docker-compose up"
+alias dcrs="docker-compose restart"
+alias dcr="docker-compose run"
+alias dce="docker-compose exec"
+alias dcs="docker-compose stop"
+
 # Git
 alias gbs="git branch --sort=committerdate"
 alias gbsr="git branch --sort=committerdate --remote"
+alias gcom="git checkout master"
+alias gac="git add . && git commit"
+alias gbs="git branch --sort=committerdate"
+alias gbc="git-copy-branch-name"
+alias gbsr="git branch --sort=committerdate --remote"
+alias gdp="git diff @~..@"  # git diff previous commit
+alias grbs="git rebase --skip"
+alias grsm="git reset --mixed"
+alias gst="git stash"
+alias gstp="git stash pop"
 
 alias lt='ls --human-readable --size -1 -S --classify'
 alias mnt="mount | awk -F' ' '{ printf \"%s\t%s\n\",\$1,\$3; }' | column -t | egrep ^/dev/ | sort"
