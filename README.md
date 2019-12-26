@@ -19,19 +19,15 @@
     <th colspan="3" align="Center">Source Code Managment</th>
     <th colspan="2" align="Center">CI/CD</th>
   </tr>
-    <tr>
+  <tr>
     <td align="center"><a href="resources/python.md"><img src="images/coding/python.png" width="80px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     <td align="center"><a href="resources/bash.md"><img src="images/coding/bash.png" width="70px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
     <td align="center"><a href="resources/go"><img src="images/coding/go.png" width="80px;" height="75px;" alt="Go"/><br /><b>Go</b></a></td>
     <td align="center"><a href="resources/ruby"><img src="images/coding/ruby.png" width="80px;" height="75px;" alt="ruby"/><br /><b>Ruby</b></a></td>
     <td align="center"><a href="resources/c"><img src="images/coding/c.jpg" width="80px;" height="75px;" alt="C"/><br /><b>C/C++</b></a></td> 
-  </tr>
-  <tr>
     <td align="center"><a href="resources/jenkins/README.md"><img src="images/github.png" width="80px;" height="85px;" alt="gitlab"/><br /><b>github</b></a></td>
     <td align="center"><a href="resources/jenkins/README.md"><img src="images/gitlab.png" width="80px;" height="85px;" alt="gitlab"/><br /><b>gitlab</b></a></td>
     <td align="center"><a href="resources/jenkins/README.md"><img src="images/bitbucket.png" width="80px;" height="85px;" alt="gitlab"/><br /><b>bitbucket</b></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="resources/jenkins/README.md"><img src="images/jenkins.png" width="80px;" height="85px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
     <td align="center"><a href="resources/jenkins/README.md"><img src="images/gitlab.png" width="80px;" height="85px;" alt="gitlab"/><br /><b>gitlab</b></a></td>
   </tr>
